@@ -68,8 +68,7 @@ Open in browser: http://localhost:5001
 
 ## Screenshot
 
-![Weather Dashboard Screenshot](./screenshot.png)
-<img width="1914" height="1033" alt="screenshot" src="https://github.com/user-attachments/assets/bcc4d4f8-afe9-4dad-a587-658060f96b55" />
+![Weather Dashboard Screenshot](./Screenshot 2026-05-05 095014.png)
 
 Notes
 The frontend runs inside the container on port 5000
