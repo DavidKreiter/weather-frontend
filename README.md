@@ -66,6 +66,10 @@ Build the image: docker build -t weather-frontend .
 Run the container: docker run -p 5001:5000 -e BACKEND_URL="http://host.docker.internal:5000" weather-frontend
 Open in browser: http://localhost:5001
 
+## Screenshot
+
+![Weather Dashboard Screenshot](./screenshot.png)
+<img width="1914" height="1033" alt="screenshot" src="https://github.com/user-attachments/assets/bcc4d4f8-afe9-4dad-a587-658060f96b55" />
 
 Notes
 The frontend runs inside the container on port 5000
